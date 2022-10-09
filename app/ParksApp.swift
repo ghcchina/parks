@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SaySomethingApp: App {
+struct ParksApp: App {
     @StateObject private var modelData = ModelData()
     var body: some Scene {
         WindowGroup {
